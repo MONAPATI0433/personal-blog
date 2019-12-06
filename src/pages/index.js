@@ -6,11 +6,10 @@
   // import { useStaticQuery, graphql } from "gatsby"
   // import Button from "../components/button"
   // import Img from "gatsby-image"
+  import Image from '../components/image'
   import "./main.css"
   // import image1 from '../images/308-p.jpg'
   // import image2 from '../images/sameer-book.png'
-
-  
 import {
   Container,
   Card,
@@ -54,6 +53,7 @@ import { GiTeamIdea, GiChessKnight } from "react-icons/gi"
             title="Home"
             keywords={[`blog`, `gatsby`, `javascript`, `react`]}
           />
+              <Image />
           <Container className="text-center mt-5">
       <CardColumns bg="light">
         <Card>

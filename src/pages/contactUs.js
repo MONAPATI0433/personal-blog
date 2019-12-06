@@ -21,9 +21,10 @@ class contactUs extends Component {
             FOR YOUR INTEREST. HOW CAN WE HELP?
                           </h5>
         </div>
-        <Container className="mt-5 mb-5">
+
+        <div className="mb-5" style={{backgroundColor: "#f4f4f4",height:"200px"}}>
           <Row>
-            <Col>
+            <Col className="mt-5">
               <Media>
                 <FaChessQueen />
                 <Media.Body>
@@ -33,7 +34,7 @@ class contactUs extends Component {
                 </Media.Body>
               </Media>
             </Col>
-            <Col>
+            <Col className="mt-5">
               <Media>
                 <FaChessQueen />
                 <Media.Body>
@@ -42,7 +43,7 @@ class contactUs extends Component {
                 </Media.Body>
               </Media>
             </Col>
-            <Col>
+            <Col className="mt-5">
               <Media>
                 <FaChessQueen />
                 <Media.Body>
@@ -52,7 +53,7 @@ class contactUs extends Component {
                 </Media.Body>
               </Media>
             </Col>
-            <Col>
+            <Col className="mt-5">
               <Media>
                 <FaChessQueen />
                 <Media.Body>
@@ -63,7 +64,7 @@ class contactUs extends Component {
               </Media>
             </Col>
           </Row>
-        </Container>
+        </div>
         <Container className="mt-5 mb-3 text-center">
           <Row>
             <div className="text-center">
