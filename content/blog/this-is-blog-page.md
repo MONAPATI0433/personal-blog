@@ -1,7 +1,7 @@
 ---
 path: Company
 date: 2019-11-28T07:01:15.683Z
-title: This is Blog Page2
+title: A salted duck egg is a Chinese preserved food product made by soaking duck
 description: >-
   Now you will be able to push your repository to github. Basically, you have to
   merge those new initialized files with your work. git pull fetches and merges
